@@ -201,7 +201,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="242"></int>
+                  <int value="253"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -215,7 +215,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.1"></unicode>
+                <unicode value="0_127_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -226,7 +226,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="10-01.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpj39xlh\\10-01.jpg"></string>
+                  <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\10-01.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2d31dcadf9f34aeae00a70464275d122"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -255,7 +255,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="2"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -385,6 +385,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/ChatGPT_Image_20_abr_2026,_20_52_58.png&quot; alt=&quot;Seguridad y protección de datos&quot; width=&quot;1536&quot; height=&quot;1024&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -406,7 +408,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="245"></int>
+                     <int value="254"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -420,7 +422,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="12_128_2.0"></unicode>
+                   <unicode value="12_128_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -431,7 +433,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ChatGPT_Image_20_abr_2026,_20_52_58.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\ChatGPT_Image_20_abr_2026,_20_52_58.png"></string>
+                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\ChatGPT_Image_20_abr_2026,_20_52_58.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b25f709413790295cc83d7190759300"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -460,7 +462,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -592,6 +594,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Producto_final._imagen_con_texto.png&quot; alt=&quot;Producto final&quot; width=&quot;2048&quot; height=&quot;1365&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Para la elaboración del producto final de esta situación de aprendizaje se propone el uso de Google Presentaciones, herramienta que permitirá al alumnado realizar una presentación digital sobre un país, incluyendo contenidos geográficos como el relieve, el clima, la población, los paisajes, la economía, los Objetivos de Desarrollo Sostenible (ODS) y el medio natural.&lt;/p&gt;
@@ -619,7 +623,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="246"></int>
+                     <int value="259"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -633,7 +637,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.0"></unicode>
+                   <unicode value="13_129_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -644,7 +648,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Producto_final._imagen_con_texto.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Producto_final._imagen_con_texto.png"></string>
+                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Producto_final._imagen_con_texto.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="be377dda32764b9be636e1352e58819d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -673,7 +677,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -805,6 +809,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value=""></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -829,7 +835,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="16"></reference>
              </dictionary>
             </instance>
            </list>
@@ -930,6 +936,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Recursos_y_herramientas_ChatGPT_Image_21_abr_2026,_10_00_02.png&quot; alt=&quot;Recursos y herramientas&quot; width=&quot;1536&quot; height=&quot;1024&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -951,7 +959,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="247"></int>
+                     <int value="260"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -965,7 +973,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="15_131_2.0"></unicode>
+                   <unicode value="15_131_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -976,7 +984,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Recursos_y_herramientas_ChatGPT_Image_21_abr_2026,_10_00_02.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Recursos_y_herramientas_ChatGPT_Image_21_abr_2026,_10_00_02.png"></string>
+                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Recursos_y_herramientas_ChatGPT_Image_21_abr_2026,_10_00_02.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="76fff8e372034d5407d36811b86110aa"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1005,7 +1013,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -1135,6 +1143,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Padlet_ChatGPT_Image_21_abr_2026,_10_10_42.png&quot; alt=&quot;Padlet&quot; width=&quot;1254&quot; height=&quot;1254&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://padlet.com/lezsuarez/pa-ses-del-mundo-fn06cp1wunmgmlrz&quot; title=&quot;Enlace&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://padlet.com/lezsuarez/pa-ses-del-mundo-fn06cp1wunmgmlrz&quot;&gt;Enlace &lt;/a&gt;&lt;/p&gt;
@@ -1159,7 +1169,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="248"></int>
+                        <int value="258"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1173,7 +1183,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="16_132_2.0"></unicode>
+                      <unicode value="16_132_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="23">
                        <dictionary>
@@ -1184,7 +1194,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Padlet_ChatGPT_Image_21_abr_2026,_10_10_42.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Padlet_ChatGPT_Image_21_abr_2026,_10_10_42.png"></string>
+                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Padlet_ChatGPT_Image_21_abr_2026,_10_10_42.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="28e8234c4a3b9222b4a505d6d81ba0c8"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1213,7 +1223,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="22"></reference>
                 </dictionary>
@@ -1345,6 +1355,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Symbaloo_ChatGPT_Image_21_abr_2026,_10_19_18.png&quot; alt=&quot;Symbaloo&quot; width=&quot;1477&quot; height=&quot;1065&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.symbaloo.com/home/mix/13ePH27BUj&quot;&gt;Enlace&lt;/a&gt;&lt;/p&gt;
@@ -1370,7 +1382,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="249"></int>
+                        <int value="261"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1384,7 +1396,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="17_133_2.0"></unicode>
+                      <unicode value="17_133_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="27">
                        <dictionary>
@@ -1395,7 +1407,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Symbaloo_ChatGPT_Image_21_abr_2026,_10_19_18.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Symbaloo_ChatGPT_Image_21_abr_2026,_10_19_18.png"></string>
+                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Symbaloo_ChatGPT_Image_21_abr_2026,_10_19_18.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a3ea32a0206e044f8421ca10afddb646"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1424,7 +1436,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="26"></reference>
                 </dictionary>
@@ -1559,6 +1571,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Linea_temporal_imagen_editada.png&quot; alt=&quot;Línea temporal&quot; width=&quot;2048&quot; height=&quot;1365&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1580,7 +1594,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="250"></int>
+                     <int value="257"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1594,7 +1608,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_134_2.0"></unicode>
+                   <unicode value="18_134_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1605,7 +1619,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Linea_temporal_imagen_editada.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\L\xc3\xadnea_temporal_imagen_editada.png"></string>
+                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Linea_temporal_imagen_editada.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a71c4845bd55e5b86ab3c88a7b40414f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1634,7 +1648,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="30"></reference>
              </dictionary>
@@ -1766,6 +1780,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Evaluacion_ChatGPT_Image_21_abr_2026,_10_40_22.png&quot; alt=&quot;Evaluación&quot; width=&quot;1536&quot; height=&quot;1024&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1787,7 +1803,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="251"></int>
+                     <int value="256"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1801,7 +1817,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19_135_2.0"></unicode>
+                   <unicode value="19_135_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -1812,7 +1828,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Evaluacion_ChatGPT_Image_21_abr_2026,_10_40_22.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Evaluaci\xc3\xb3n_ChatGPT_Image_21_abr_2026,_10_40_22.png"></string>
+                     <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Evaluacion_ChatGPT_Image_21_abr_2026,_10_40_22.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="cdb8e7e860313d963f0f7af6a57cb55c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1841,7 +1857,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="34"></reference>
              </dictionary>
@@ -1971,6 +1987,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Criterios_y_tareas_2026-04-21_105000.png&quot; alt=&quot;Tareas y criterios&quot; width=&quot;727&quot; height=&quot;390&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1992,7 +2010,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="252"></int>
+                        <int value="255"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2006,7 +2024,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="20_136_2.0"></unicode>
+                      <unicode value="20_136_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="39">
                        <dictionary>
@@ -2017,7 +2035,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Criterios_y_tareas_2026-04-21_105000.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmplrdgpg.eXe\\previews\\allyourbase\\Criterios_y_tareas_2026-04-21_105000.png"></string>
+                        <string value="c:\\users\\usuario4\\appdata\\local\\temp\\tmpez6egy\\Criterios_y_tareas_2026-04-21_105000.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="05bf56b1e0904faea5b867275e48f95a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2046,7 +2064,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="38"></reference>
                 </dictionary>
@@ -2178,6 +2196,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Tarea 1: Elección del país y comprensión&lt;/p&gt;
 &lt;p&gt;Instrumento 1: LISTA DE COTEJO PARA EL ALUMNADO&lt;/p&gt;
@@ -2401,7 +2421,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="42"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2500,6 +2520,10 @@
                  <string value=""></string>
                  <string role="key" value="_name"></string>
                  <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <string content="true" value=""></string>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2519,10 +2543,12 @@
                    <reference key="44"></reference>
                   </dictionary>
                  </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="42"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2653,6 +2679,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La presente &lt;strong&gt;situación de aprendizaje&lt;/strong&gt;, titulada “Exploramos el mundo: investigación y presentación de un país”, está dirigida al alumnado de 1º de ESO en el área de Geografía e Historia.&lt;/p&gt;
 &lt;p&gt;El &lt;strong&gt;objetivo&lt;/strong&gt; principal es que el alumnado desarrolle la capacidad de investigar, seleccionar, organizar y comunicar información geográfica básica sobre un país, utilizando herramientas digitales y exponiendo oralmente los resultados.&lt;/p&gt;
@@ -2684,7 +2712,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="47"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2812,6 +2840,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Créditos&lt;/strong&gt;&lt;/p&gt;
@@ -2847,7 +2877,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="50"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2931,7 +2961,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="47"></reference>
+  <reference key="50"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
